@@ -26,7 +26,7 @@ I'm a **Computer Engineer** passionate about **Game Development** 🎮 and **Web
 ![DotNet](https://skillicons.dev/icons?i=dotnet)
 
 ### Game Development
-![Unity](https://skillicons.dev/icons?i=unity,robloxstudio&theme=light)
+![Unity](https://skillicons.dev/icons?i=unity,robloxstudio)
 
 ### Tools & Databases
 ![Git](https://skillicons.dev/icons?i=git)

@@ -38,17 +38,29 @@ I'm a **Computer Engineer** passionate about **Game Development** 🎮 and **Web
 
 ## 🏆 Projects & Achievements
 
-- 🥉 **LaughBali (3rd Place - Global Game Jam 2024)**  
-  _Voice-controlled arcade game set in a surreal dream world._
+## 🚀 Projects
 
-- 🥇 **APOCALYPTO (1st Place - MetaThon Game Jam 2023)**  
-  _Adventure game blending parkour, stealth, and racing mechanics._
+- **[DOTS Graduation Project](https://github.com/PCopath/DOTS_GraduationProject)**  
+  Unity project utilizing Data-Oriented Technology Stack (DOTS) for optimized performance and efficient game development.
 
-- 📱 **[Instagram Clone](https://github.com/PCopath/insta-clone-android-studio-firebase)**  
-  _Android app with Firebase featuring real-time image posting._
+- **[Taskmaster App](https://github.com/PCopath/taskmaster-app)**  
+  Full-stack task management application (MERN Stack) with user authentication, CRUD operations, and intuitive UI.
 
-- 📝 **[Freelance Writer Blog Project](https://freelance-writer-frontend.vercel.app/index.html)**  
-  _Full-stack blog application._
+- **[Freelance Writer FullStack](https://github.com/PCopath/Freelance-Writer-FullStack)**  
+  Responsive blogging platform built with React and Node.js, featuring user authentication, post creation, and comments.
+
+- **[Instagram Clone](https://github.com/PCopath/insta-clone-android-studio-firebase)**  
+  Android application replicating Instagram’s core functionalities, including real-time image upload and authentication with Firebase.
+
+- **[LaughBali - Global Game Jam (3rd Place)](https://github.com/PCopath/LaughBali)**  
+  Voice-controlled arcade game developed in Unity, recognized with 3rd place at Global Game Jam 2024.
+
+- **[APOCALYPTO - MetaThon Game Jam (1st Place)](https://github.com/PCopath/APOCALYPTO)**  
+  Adventure game integrating parkour, stealth, and racing mechanics, achieving 1st place at MetaThon 2023.
+
+---
+
+🔍 **Explore more:** [All my GitHub Repositories](https://github.com/PCopath?tab=repositories)
 
 ---
 

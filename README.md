@@ -38,8 +38,6 @@ I'm a **Computer Engineer** passionate about **Game Development** 🎮 and **Web
 
 ## 🏆 Projects & Achievements
 
-## 🚀 Projects
-
 - **[DOTS Graduation Project](https://github.com/PCopath/DOTS_GraduationProject)**  
   Unity project utilizing Data-Oriented Technology Stack (DOTS) for optimized performance and efficient game development.
 

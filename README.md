@@ -1,62 +1,67 @@
 # 👋 Hi there, I'm Mehmet Yasir Balcı!
 
-I'm a **Computer Engineer** passionate about **Game Development** 🎮 and **Web Technologies** 💻. I love creating engaging digital experiences by combining interactive design with solid programming skills.
+I'm a **Full-Stack Software Engineer** and **M.Sc. Cybersecurity candidate** 🔐 based in Lisbon 🇵🇹. I build production web platforms with Next.js, TypeScript, and Python — and ship games on the side with Unity ECS. Currently extending my full-stack background into **security engineering** through my M.Sc. at Politécnico da Guarda.
 
-🌐 [Portfolio Website](https://yasirbalci.netlify.app/) | 📫 [balci42tr@gmail.com](mailto:balci42tr@gmail.com) | 💼 [LinkedIn](https://tr.linkedin.com/in/mehmet-yasir-balc%C4%B1-583b8b236) | ▶️ [Game Dev Portfolio](https://www.youtube.com/watch?v=xT5o5hoCSzE)
+🌐 [Portfolio Website](https://yasirbalci.netlify.app/) | 📫 [balci42tr@gmail.com](mailto:balci42tr@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/mehmet-yasir-balci) | ▶️ [Game Dev Portfolio](https://www.youtube.com/watch?v=xT5o5hoCSzE)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![Csharp](https://skillicons.dev/icons?i=cs)
+![Languages](https://skillicons.dev/icons?i=ts,js,python,cs,java,cpp)
 
 ### Frontend
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
+![Frontend](https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css)
 
 ### Backend
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Flask](https://skillicons.dev/icons?i=flask)
-![DotNet](https://skillicons.dev/icons?i=dotnet)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,dotnet)
+
+### Databases
+![Databases](https://skillicons.dev/icons?i=postgres,supabase,mongodb,firebase,mysql)
 
 ### Game Development
-![Unity](https://skillicons.dev/icons?i=unity,robloxstudio)
+![Game Dev](https://skillicons.dev/icons?i=unity,unreal)
 
-### Tools & Databases
-![Git](https://skillicons.dev/icons?i=git)
-![SQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Firebase](https://skillicons.dev/icons?i=firebase)
+### Tools & Cloud
+![Tools](https://skillicons.dev/icons?i=git,github,vercel,vscode,figma)
+
+### Security & AI
+🔐 Application Security · Web Application Security · Secure Software Architecture · LLM Integration · Prompt Engineering
 
 ---
 
-## 🏆 Projects & Achievements
+## 🚀 Featured Projects
 
-- **[DOTS Graduation Project](https://github.com/PCopath/DOTS_GraduationProject)**  
+### Production Web Platforms (InspectOS, Lisbon)
+
+- 🏢 **[Real Estate Lisbon](https://realestate-lisbon.com)**  
+  B2B2C platform connecting foreign investors with verified Portuguese real estate professionals. Architected with Next.js 15, TypeScript, Supabase, and PostgreSQL. *500+ monthly organic visits within 3 months.*
+
+- 🤖 **[NotRecruiting](https://notrecruiting.com)**  
+  AI-driven Talent Acquisition SaaS featuring an automated candidate scoring engine. *Evaluated 200+ applicants; accelerated hiring cycles by 40%.*
+
+### Indie Web Projects
+
+- 📚 **[WordScope](https://wordscopeai.com)**  
+  AI-powered language learning tool with contextual text analysis and personalized vocabulary paths. Built with Next.js 15, React 19, and Google Auth.
+
+- 🏠 **[TrustedBuildr](https://trustedbuildr.com)**  
+  Scalable tokenized home financing platform with Next.js 14, TypeScript, and dynamic SEO infrastructure.
+
+### Game Development
+
+- 🎮 **Shadow Survivors**  
+  Top-down shooter using Unity ECS (DOTS), achieving 300+ FPS with data-oriented enemy AI and modular systems.
+
+- 🏆 **[APOCALYPTO - MetaThon Game Jam (1st Place)](https://github.com/PCopath/APOCALYPTO)**  
+  Adventure game integrating parkour, stealth, and racing mechanics, achieving **1st place** at MetaThon 2023.
+
+- 🥉 **[LaughBali - Global Game Jam (3rd Place)](https://github.com/PCopath/LaughBali)**  
+  Voice-controlled arcade game developed in Unity, recognized with **3rd place** at Global Game Jam 2024.
+
+- 🛠️ **[DOTS Graduation Project](https://github.com/PCopath/DOTS_GraduationProject)**  
   Unity project utilizing Data-Oriented Technology Stack (DOTS) for optimized performance and efficient game development.
-
-- **[Taskmaster App](https://github.com/PCopath/taskmaster-app)**  
-  Full-stack task management application (MERN Stack) with user authentication, CRUD operations, and intuitive UI.
-
-- **[Freelance Writer FullStack](https://github.com/PCopath/Freelance-Writer-FullStack)**  
-  Responsive blogging platform built with React and Node.js, featuring user authentication, post creation, and comments.
-
-- **[Instagram Clone](https://github.com/PCopath/insta-clone-android-studio-firebase)**  
-  Android application replicating Instagram’s core functionalities, including real-time image upload and authentication with Firebase.
-
-- **[LaughBali - Global Game Jam (3rd Place)](https://github.com/PCopath/LaughBali)**  
-  Voice-controlled arcade game developed in Unity, recognized with 3rd place at Global Game Jam 2024.
-
-- **[APOCALYPTO - MetaThon Game Jam (1st Place)](https://github.com/PCopath/APOCALYPTO)**  
-  Adventure game integrating parkour, stealth, and racing mechanics, achieving 1st place at MetaThon 2023.
-
----
 
 🔍 **Explore more:** [All my GitHub Repositories](https://github.com/PCopath?tab=repositories)
 
@@ -64,23 +69,38 @@ I'm a **Computer Engineer** passionate about **Game Development** 🎮 and **Web
 
 ## 💼 Experience
 
-- **Digital Games Developer Intern** @ **El-Capitan Games** _(Aug 2024 - Sep 2024)_  
-  Developed a 2048-inspired puzzle game with Unity.
+- **Software Engineer** @ **InspectOS** _(Aug 2025 - Feb 2026)_ — *Lisbon, Portugal*  
+  Architected Next.js 15 & Supabase B2B2C platforms; engineered AI-driven candidate scoring engine; implemented GEO strategies and interactive financial tools.
 
-- **Digital Games Developer Intern** @ **Skyweldrix** _(Feb 2024 - Jun 2024)_  
-  Created a multiplayer FPS prototype in Roblox Studio.
+- **Game Developer Intern** @ **EL-CAPITAN Games** _(Aug 2024)_ — *Konya, Türkiye*  
+  Owned full development lifecycle of a Unity puzzle game with grid-based algorithms and recursive tile-merge logic.
 
-- **Back-end Developer Intern** @ **Thales Bilişim** _(Jul 2023 - Sep 2023)_  
-  Built RESTful APIs with Python (Flask) and SQL.
+- **Game Developer Intern** @ **Skyweldrix** _(Feb 2024 - Jun 2024)_ — *Istanbul, Türkiye*  
+  Engineered networking systems for a multiplayer FPS with 16 concurrent players and <50ms latency.
+
+- **Back-End Developer Intern** @ **Thales Bilişim** _(Jul 2023 - Sep 2023)_ — *Konya, Türkiye*  
+  Built 10+ RESTful API endpoints with Python (Flask) and SQL; reduced average API response time by 30%.
 
 ---
 
 ## 🎓 Education
 
-- 🎓 **B.Sc. Computer Engineering** - Konya Food and Agriculture University _(2021-2025)_  
-- 🌍 **Erasmus Exchange** - Politécnico da Guarda, Portugal _(2024-2025)_
+- 🔐 **M.Sc. Cybersecurity** — Politécnico da Guarda, Portugal _(Oct 2025 - Present)_  
+  Specializing in **Application Security** & **Secure Software Architecture**
+
+- 🎓 **B.Sc. Computer Engineering** (English-medium) — Konya Food and Agriculture University, Türkiye _(2021 - 2025)_
+
+- 🌍 **Erasmus Exchange** — Politécnico da Guarda, Portugal _(Sep 2024 - Feb 2025)_
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **1st Place** — MetaThon Game Jam (Kapsül, 2023)
+- 🥉 **3rd Place** — Global Game Jam (InnoPark, 2024)
+- 🎯 **TEKNOFEST 2022** — Competed with the **MAİ Technology Team** at Turkey's largest tech & aerospace festival
 
 ---
 
 📩 **Let's Connect!**  
-Feel free to reach out if you're interested in collaboration or just want to say hi! 😊
+I'm open to **full-stack, game development, and security engineering** opportunities in Portugal. Happy to chat about web platforms, game architecture, secure software design, or anything in between. 😊

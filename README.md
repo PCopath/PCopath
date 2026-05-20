@@ -21,7 +21,7 @@ I'm a **Full-Stack Software Engineer** and **M.Sc. Cybersecurity candidate** ðŸ”
 ![Databases](https://skillicons.dev/icons?i=postgres,supabase,mongodb,firebase,mysql)
 
 ### Game Development
-![Game Dev](https://skillicons.dev/icons?i=unity,unreal)
+![Game Dev](https://skillicons.dev/icons?i=unity)
 
 ### Tools & Cloud
 ![Tools](https://skillicons.dev/icons?i=git,github,vercel,vscode,figma)

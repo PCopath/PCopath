@@ -2,7 +2,7 @@
 
 I'm a **Full-Stack Software Engineer** and **M.Sc. Cybersecurity candidate** 🔐 based in Lisbon 🇵🇹. I build production web platforms with Next.js, TypeScript, and Python — and ship games on the side with Unity ECS. Currently extending my full-stack background into **security engineering** through my M.Sc. at Politécnico da Guarda, with hands-on research in AI-driven network defense and post-quantum cryptography.
 
-🌐 [Portfolio Website](yasirbalci.com) | 📫 [balci42tr@gmail.com](mailto:balci42tr@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/mehmet-yasir-balci) | ▶️ [Game Dev Portfolio](https://www.youtube.com/watch?v=xT5o5hoCSzE)
+🌐 [Portfolio Website](https://yasirbalci.com) | 📫 [balci42tr@gmail.com](mailto:balci42tr@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/mehmet-yasir-balci) | ▶️ [Game Dev Portfolio](https://www.youtube.com/watch?v=xT5o5hoCSzE)
 
 ---
 
